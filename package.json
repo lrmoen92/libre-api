@@ -1,0 +1,24 @@
+{
+  "name": "libre-api",
+  "version": "1.0.0",
+  "description": "Api to serve libre_cql_dev data",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lrmoen92/libre-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lrmoen92/libre-api/issues"
+  },
+  "homepage": "https://github.com/lrmoen92/libre-api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "sequelize": "^6.6.2",
+    "tedious": "^11.0.7"
+  }
+}
